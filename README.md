@@ -1,2 +1,5 @@
 # hello-world
-ideas, resources and discussions
+
+Hi guys,
+i like c, c++ and matlab.
+
