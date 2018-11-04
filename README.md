@@ -1,5 +1,5 @@
 # hello-world
 
 Hi guys,
-i like c, c++ and matlab.
+i like c++, matlab and python.
 
